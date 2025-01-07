@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav Poudel</h1>
 <h3 align="center">A passionate Web developer from Butwal,Nepal</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=madhav-poudel" alt="madhav-poudel" /></a> </p>
 
 - 🔭 I’m currently working on **Backend Project**
 
