@@ -2,7 +2,7 @@
 
 **Full Stack Developer | MERN Stack Enthusiast | AI/ML Learner** 
 
-I'm a passionate full-stack developer based in Nepal, dedicated to building scalable and reliable web applications. I specialize in developing high-performance frontend systems with React and TypeScript, integrating APIs, and delivering production-ready full-stack applications using the MERN stack.
+I'm a passionate full-stack developer based in Nepal, dedicated to building scalable and reliable web applications. I specialize in developing high-performance frontend systems with React and TypeScript.
 
 I enjoy translating business requirements and product ideas into reliable software systems, designing maintainable architectures, and ensuring smooth end-to-end workflows from development to deployment.
 
@@ -12,54 +12,42 @@ I actively collaborate with teams, participate in code reviews, and am always op
 
 ## Tech Stack
 
-### Frontend
-- React
-- TypeScript
-- JavaScript (ES6+)
-- Next.js
-- Tailwind CSS
-- TanStack Query
+| Frontend | Backend |
+|----------|----------|
+| React | Node.js |
+| Next.js | REST APIs |
+| TypeScript | GraphQL |
+| JavaScript (ES6+) | Django |
+| Angular (familiar) | Python |
+| Tailwind CSS | |
+| TanStack Query | |
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
-- PostgreSQL
+| Mobile | Testing |
+|-------|--------|
+| React Native | Jest |
+| | Unit Testing |
+| | Integration Testing |
 
-### Mobile
-- React Native (familiar)
+| Databases | Cloud & DevOps |
+|----------|----------|
+| PostgreSQL | AWS |
+| | Docker |
+| | GitHub Actions (CI/CD) |
 
-### Testing
-- Jest
-- React Testing Library
-- Unit Testing
-- Integration Testing
-
-### Databases
-- MongoDB
-- PostgreSQL
-- SQL
-
-### Cloud & DevOps
-- AWS (learning)
-- Docker
-- GitHub Actions (CI/CD)
-
-### Tools & Practices
-- Git & GitHub
-- CI/CD pipelines
-- Code Reviews
-- OWASP Security Best Practices
-- Responsive & Accessible UI Development
+| Tools & Practices |
+|-------------------|
+| Git |
+| CI/CD pipelines |
+| Code Reviews |
+| OWASP Security Best Practices |
 
 ---
 
 ## What I Work On
 
 - Building scalable frontend architectures using React + TypeScript
-- Designing and integrating RESTful APIs
-- Developing end-to-end full-stack applications with MERN stack
+- Designing and integrating RESTful and GraphQL APIs
+- Developing end-to-end full-stack applications
 - Writing clean, maintainable, and testable code
 - Implementing comprehensive unit and integration tests
 - Improving application performance and developer experience
@@ -72,11 +60,11 @@ I actively collaborate with teams, participate in code reviews, and am always op
 
 - Component-driven architecture
 - State management and data fetching strategies
-- REST API integration and design
+- REST API and GraphQL integration
 - Responsive and accessible UI development
 - Application performance optimization
 - CI/CD workflows and deployment practices
-- Full-stack web development (MERN)
+- Full-stack web development
 - Code reviews, collaboration, and knowledge sharing
 - Scalable application and system design
 
