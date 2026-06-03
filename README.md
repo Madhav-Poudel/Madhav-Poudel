@@ -31,8 +31,8 @@ I actively collaborate with teams, participate in code reviews, and am always op
 | Databases | Cloud & DevOps |
 |----------|----------|
 | PostgreSQL | AWS |
-| | Docker |
-| | GitHub Actions (CI/CD) |
+| MongoDB | Docker |
+| MySQL | GitHub Actions (CI/CD) |
 
 | Tools & Practices |
 |-------------------|
