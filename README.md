@@ -1,16 +1,123 @@
-<h1 align="center">Hi 👋, I'm Madhav Poudel</h1>
-<h3 align="center">A passionate Full Stack Developer from Nepal.</h3>
+# Hi 👋, I'm Madhav Poudel
 
-- 🔭 I’m currently working on **Full Stack Projects.**
+**Full Stack Developer | MERN Stack Enthusiast | AI/ML Learner** 
 
-- 🌱 I’m currently learning **MERN Stack and AI/ML.**
+I'm a passionate full-stack developer based in Nepal, dedicated to building scalable and reliable web applications. I specialize in developing high-performance frontend systems with React and TypeScript, integrating APIs, and delivering production-ready full-stack applications using the MERN stack.
 
-- 👨‍💻 All of my projects are available at [https://www.madhavpoudel5.com.np/](https://www.madhavpoudel5.com.np/)
+I enjoy translating business requirements and product ideas into reliable software systems, designing maintainable architectures, and ensuring smooth end-to-end workflows from development to deployment.
 
-- 📫 How to reach me **off.madhavpoudel@gmail.com**
+I actively collaborate with teams, participate in code reviews, and am always open to learning from experienced developers while continuously improving my engineering practices.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/madhav-poudel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav-poudel" height="30" width="40" /></a> <br> <br>
-<a href="https://instagram.com/__madhav_poudel__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__madhav_poudel__" height="30" width="40" /></a>
-</p>
+---
+
+## Tech Stack
+
+### Frontend
+- React
+- TypeScript
+- JavaScript (ES6+)
+- Next.js
+- Tailwind CSS
+- TanStack Query
+
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- PostgreSQL
+
+### Mobile
+- React Native (familiar)
+
+### Testing
+- Jest
+- React Testing Library
+- Unit Testing
+- Integration Testing
+
+### Databases
+- MongoDB
+- PostgreSQL
+- SQL
+
+### Cloud & DevOps
+- AWS (learning)
+- Docker
+- GitHub Actions (CI/CD)
+
+### Tools & Practices
+- Git & GitHub
+- CI/CD pipelines
+- Code Reviews
+- OWASP Security Best Practices
+- Responsive & Accessible UI Development
+
+---
+
+## What I Work On
+
+- Building scalable frontend architectures using React + TypeScript
+- Designing and integrating RESTful APIs
+- Developing end-to-end full-stack applications with MERN stack
+- Writing clean, maintainable, and testable code
+- Implementing comprehensive unit and integration tests
+- Improving application performance and developer experience
+- Designing systems that scale reliably in production environments
+- Exploring AI/ML integration in web applications
+
+---
+
+## Key Skills
+
+- Component-driven architecture
+- State management and data fetching strategies
+- REST API integration and design
+- Responsive and accessible UI development
+- Application performance optimization
+- CI/CD workflows and deployment practices
+- Full-stack web development (MERN)
+- Code reviews, collaboration, and knowledge sharing
+- Scalable application and system design
+
+---
+
+## Experience
+
+### Full-Stack Development
+
+- Building production-grade web applications with modern tech stack
+- Strong expertise in React ecosystem and modern frontend tooling
+- Experience collaborating with teams on architectural decisions
+- Delivering robust and scalable applications aligned with business needs
+- Portfolio: [madhavpoudel5.com.np](https://www.madhavpoudel5.com.np/)
+
+---
+
+## Currently Learning
+
+- MERN Stack mastery
+- AI/ML fundamentals and integration
+- Cloud architecture with AWS
+- Scalable system design
+- Advanced testing strategies
+- AI-assisted development workflows
+
+---
+
+## Connect With Me
+
+- **Portfolio**: [madhavpoudel5.com.np](https://www.madhavpoudel5.com.np/)
+- **Email**: [off.madhavpoudel@gmail.com](mailto:off.madhavpoudel@gmail.com)
+- **GitHub**: [@Madhav-Poudel](https://github.com/Madhav-Poudel)
+- **Twitter/X**: [@__madhav_poudel__](https://twitter.com/__madhav_poudel__)
+
+---
+
+## 📊 GitHub Stats
+
+![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhav-Poudel&show_icons=true&theme=radical)
+
+---
+
+**Always open to collaborating on exciting projects and learning new technologies!** 🚀
