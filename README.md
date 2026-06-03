@@ -102,10 +102,5 @@ I actively collaborate with teams, participate in code reviews, and am always op
 
 ---
 
-## 📊 GitHub Stats
-
-![Madhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Madhav-Poudel&show_icons=true&theme=radical)
-
----
 
 **Always open to collaborating on exciting projects and learning new technologies!** 🚀
