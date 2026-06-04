@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&color=0:8E2DE2,50:4A00E0,100:00C9FF" />
+
 # Hi 👋, I'm Madhav Poudel
 
 **Full Stack Developer | MERN Stack Enthusiast | AI/ML Learner** 
@@ -104,3 +106,9 @@ I actively collaborate with teams, participate in code reviews, and am always op
 
 
 **Always open to collaborating on exciting projects and learning new technologies!** 🚀
+
+## 💭 Quote
+
+> "Every expert was once a beginner who refused to give up."
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:8E2DE2,50:4A00E0,100:00C9FF" />
